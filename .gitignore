@@ -1,0 +1,5 @@
+.vscode/settings.json
+wrangling_scripts/__pycache__/wrangling.cpython-39.pyc
+flaskapp/__pycache__/routes.cpython-39.pyc
+flaskapp/__pycache__/__init__.cpython-39.pyc
+data/nbac.sqlite
